@@ -100,7 +100,7 @@
             button3.BackColor = SystemColors.ActiveCaption;
             button3.Location = new Point(112, 528);
             button3.Name = "button3";
-            button3.Size = new Size(202, 48);
+            button3.Size = new Size(205, 48);
             button3.TabIndex = 6;
             button3.Text = "Convert";
             button3.UseVisualStyleBackColor = false;
@@ -152,7 +152,7 @@
             // linkLabel1
             // 
             linkLabel1.AutoSize = true;
-            linkLabel1.Location = new Point(161, 688);
+            linkLabel1.Location = new Point(164, 698);
             linkLabel1.Name = "linkLabel1";
             linkLabel1.Size = new Size(98, 15);
             linkLabel1.TabIndex = 11;
@@ -182,7 +182,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(453, 712);
+            ClientSize = new Size(455, 729);
             Controls.Add(label4);
             Controls.Add(lblFilePath);
             Controls.Add(linkLabel1);
